@@ -10,4 +10,5 @@ there is a fourth change.
 
 there is some text on new branch.
 
-master
+master and feature1
+
