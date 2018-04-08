@@ -14,3 +14,7 @@ master and feature1
 
 
 this is an extra line.
+
+this is some text on dev branch not commit yet.
+
+add feature-vulcan.
