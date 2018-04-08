@@ -12,3 +12,5 @@ there is some text on new branch.
 
 master and feature1
 
+
+this is a extra line.
